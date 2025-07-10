@@ -1,5 +1,5 @@
 ## Hi there 👋
-나, 강림
+안녕하세요
 <!--
 **dgk99/dgk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
